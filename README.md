@@ -1,2 +1,1 @@
-# blog
-My ramblings and learnings through IT &amp; InfoSec
+# My ramblings and learnings through IT &amp; InfoSec
